@@ -1,2 +1,2 @@
 # rain
-abstract water color
+mobile application project and accompanying website
